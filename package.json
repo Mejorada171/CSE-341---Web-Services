@@ -1,0 +1,19 @@
+{
+  "name": "cse-341---web-services",
+  "version": "1.0.0",
+  "description": "My First Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mejorada171/CSE-341---Web-Services.git"
+  },
+  "author": "Jorge Mejorada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mejorada171/CSE-341---Web-Services/issues"
+  },
+  "homepage": "https://github.com/Mejorada171/CSE-341---Web-Services#readme"
+}
