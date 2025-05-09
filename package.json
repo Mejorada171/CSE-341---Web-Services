@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mejorada171/CSE-341---Web-Services/issues"
   },
-  "homepage": "https://github.com/Mejorada171/CSE-341---Web-Services#readme"
+  "homepage": "https://github.com/Mejorada171/CSE-341---Web-Services#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
